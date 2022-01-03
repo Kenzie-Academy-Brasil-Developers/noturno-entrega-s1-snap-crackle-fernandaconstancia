@@ -12,7 +12,7 @@ function snapCrackle(maxValue){
       if (impar && multipli5)
          retorno = retorno + "SnapCrackle, "
       if (!impar && !multipli5)
-         retorno = retorno + index + ", " 
+         retorno = retorno + index 
     }
     console.log(retorno)
   }
